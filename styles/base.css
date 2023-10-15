@@ -1,0 +1,12 @@
+/* FAQ */
+.faq-item {
+    cursor: pointer;
+  }
+  
+.faq-answer {
+    display: none;
+  }
+
+.faq-question {
+    padding: 10px;
+  }
