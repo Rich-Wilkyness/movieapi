@@ -1,10 +1,13 @@
-document.addEventListener("DOMContentLoaded", function () {
-    const questions = document.querySelectorAll(".question");
-  
-    questions.forEach(function (question) {
-      question.addEventListener("click", function () {
-        const answer = this.nextElementSibling;
-        answer.style.display = answer.style.display === "block" ? "none" : "block";
-      });
-    });
-});
+import ExternalServices from "./ExternalServices.mjs";
+import Faq from "./faqs.mjs";
+
+
+const element = document.querySelector(".faq-item");
+const jsonFile = 'faqs';
+const dataSource = new ExternalServices();
+const faq = new Faq(dataSource, element, jsonFile);
+
+faq.init();
+
+
+
