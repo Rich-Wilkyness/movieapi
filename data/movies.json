@@ -9,9 +9,11 @@
       "earnings": 2797800564,
       "productionCompany": "20th Century Fox",
       "rating": 7.8,
+      "counter": 324,
       "bannerImage": "/public/images/movies/Avatar-banner.webp",
       "smallImage": "/public/images/movies/Avatar-small.webp",
-      "detailImage": "/public/images/movies/Avatar-detail.webp"
+      "detailImage": "/public/images/movies/Avatar-detail.webp",
+      "videoPath": "/public/videos/filler-video.mp4"
     },
     {
       "name": "Titanic",
@@ -23,9 +25,11 @@
       "earnings": 2208208395,
       "productionCompany": "20th Century Fox",
       "rating": 7.8,
+      "counter": 5,
       "bannerImage": "/public/images/movies/titanic-banner.webp",
       "smallImage": "/public/images/movies/titanic-small.webp",
-      "detailImage": "/public/images/movies/titanic-detail.webp"
+      "detailImage": "/public/images/movies/titanic-detail.webp",
+      "videoPath": "/public/videos/filler-video.mp4"
     },
     {
       "name": "Star Wars: The Force Awakens",
@@ -37,9 +41,11 @@
       "earnings": 2068223624,
       "productionCompany": "Lucasfilm Ltd.",
       "rating": 7.8,
+      "counter": 2,
       "bannerImage": "/public/images/movies/star-wars-banner.webp",
       "smallImage": "/public/images/movies/star-wars-small.webp",
-      "detailImage": "/public/images/movies/star-wars-detail.webp"
+      "detailImage": "/public/images/movies/star-wars-detail.webp",
+      "videoPath": "/public/videos/filler-video.mp4"
     },
     {
       "name": "Jurassic World",
@@ -51,9 +57,11 @@
       "earnings": 1671713208,
       "productionCompany": "Universal Pictures",
       "rating": 7.0,
+      "counter": 46,
       "bannerImage": "/public/images/movies/jurrasic-world-banner.webp",
       "smallImage": "/public/images/movies/jurrasic-world-small.webp",
-      "detailImage": "/public/images/movies/jurrasic-world-detail.webp"
+      "detailImage": "/public/images/movies/jurrasic-world-detail.webp",
+      "videoPath": "/public/videos/filler-video.mp4"
     },
     {
       "name": "The Avengers",
@@ -65,9 +73,11 @@
       "earnings": 1518812988,
       "productionCompany": "Marvel Studios",
       "rating": 8.0,
+      "counter": 80,
       "bannerImage": "/public/images/movies/The-Avengers-banner.webp",
       "smallImage": "/public/images/movies/The-Avengers-small.webp",
-      "detailImage": "/public/images/movies/The-Avengers-detail.webp"
+      "detailImage": "/public/images/movies/The-Avengers-detail.webp",
+      "videoPath": "/public/videos/filler-video.mp4"
     },
     {
       "name": "The Lion King",
@@ -79,9 +89,11 @@
       "earnings": 986214868,
       "productionCompany": "Walt Disney Pictures",
       "rating": 8.5,
+      "counter": 55,
       "bannerImage": "/public/images/movies/the-lion-king-banner.webp",
       "smallImage": "/public/images/movies/the-lion-king-small.webp",
-      "detailImage": "/public/images/movies/the-lion-king-detail.webp"
+      "detailImage": "/public/images/movies/the-lion-king-detail.webp",
+      "videoPath": "/public/videos/filler-video.mp4"
     },
     {
       "name": "Frozen",
@@ -93,9 +105,11 @@
       "earnings": 1450026933,
       "productionCompany": "Walt Disney Pictures",
       "rating": 7.4,
-      "bannerImage": "/public/images/movies/the-lion-king-banner.webp",
-      "smallImage": "/public/images/movies/the-lion-king-small.webp",
-      "detailImage": "/public/images/movies/the-lion-king-detail.webp"
+      "counter": 60,
+      "bannerImage": "/public/images/movies/Frozen-banner.webp",
+      "smallImage": "/public/images/movies/Frozen-small.webp",
+      "detailImage": "/public/images/movies/Frozen-detail.webp",
+      "videoPath": "/public/videos/filler-video.mp4"
     },
     {
       "name": "The Incredibles",
@@ -107,9 +121,11 @@
       "earnings": 633019734,
       "productionCompany": "Pixar Animation Studios",
       "rating": 8.0,
+      "counter": 100,
       "bannerImage": "/public/images/movies/The-Incredibles-banner.webp",
       "smallImage": "/public/images/movies/The-Incredibles-small.webp",
-      "detailImage": "/public/images/movies/The-Incredibles-detail.webp"
+      "detailImage": "/public/images/movies/The-Incredibles-detail.webp",
+      "videoPath": "/public/videos/filler-video.mp4"
     },
     {
       "name": "Spider-Man: No Way Home",
@@ -121,9 +137,11 @@
       "earnings": 1852587116,
       "productionCompany": "Marvel Studios",
       "rating": 8.4,
+      "counter": 130,
       "bannerImage": "/public/images/movies/spider-man-banner.webp",
       "smallImage": "/public/images/movies/spider-man-small.webp",
-      "detailImage": "/public/images/movies/spider-man-detail.webp"
+      "detailImage": "/public/images/movies/spider-man-detail.webp",
+      "videoPath": "/public/videos/filler-video.mp4"
     },
     {
       "name": "The Dark Knight",
@@ -135,9 +153,11 @@
       "earnings": 1004558444,
       "productionCompany": "Warner Bros. Pictures",
       "rating": 9.0,
+      "counter": 600,
       "bannerImage": "/public/images/movies/the-dark-knight-banner.webp",
       "smallImage": "/public/images/movies/the-dark-knight-small.webp",
-      "detailImage": "/public/images/movies/the-dark-knight-detail.webp"
+      "detailImage": "/public/images/movies/the-dark-knight-detail.webp",
+      "videoPath": "/public/videos/filler-video.mp4"
     },
     {
       "name": "Toy Story 4",
@@ -149,9 +169,11 @@
       "earnings": 1073394593,
       "productionCompany": "Pixar Animation Studios",
       "rating": 7.7,
+      "counter": 40,
       "bannerImage": "/public/images/movies/toy-story-4-banner.webp",
       "smallImage": "/public/images/movies/toy-story-4-small.webp",
-      "detailImage": "/public/images/movies/toy-story-4-detail.webp"
+      "detailImage": "/public/images/movies/toy-story-4-detail.webp",
+      "videoPath": "/public/videos/filler-video.mp4"
     },
     {
       "name": "The Lord of the Rings: The Return of the King",
@@ -163,9 +185,11 @@
       "earnings": 1111040927,
       "productionCompany": "New Line Cinema",
       "rating": 8.9,
+      "counter": 300,
       "bannerImage": "/public/images/movies/lotr-banner.webp",
       "smallImage": "/public/images/movies/lotr-small.webp",
-      "detailImage": "/public/images/movies/lotr-detail.webp"
+      "detailImage": "/public/images/movies/lotr-detail.webp",
+      "videoPath": "/public/videos/filler-video.mp4"
     },
     {
       "name": "Avengers: Endgame",
@@ -177,9 +201,11 @@
       "earnings": 2797501328,
       "productionCompany": "Marvel Studios",
       "rating": 8.4,
+      "counter": 140,
       "bannerImage": "/public/images/movies/avengers-endgame-banner.webp",
       "smallImage": "/public/images/movies/avengers-endgame-small.webp",
-      "detailImage": "/public/images/movies/avengers-endgame-detail.webp"
+      "detailImage": "/public/images/movies/avengers-endgame-detail.webp",
+      "videoPath": "/public/videos/filler-video.mp4"
     },
     {
       "name": "Harry Potter and the Deathly Hallows - Part 2",
@@ -191,9 +217,11 @@
       "earnings": 1341511219,
       "productionCompany": "Warner Bros. Pictures",
       "rating": 8.1,
+      "counter": 7,
       "bannerImage": "/public/images/movies/harry-potter-dh2-banner.webp",
       "smallImage": "/public/images/movies/harry-potter-dh2-small.webp",
-      "detailImage": "/public/images/movies/harry-potter-dh2-detail.webp"
+      "detailImage": "/public/images/movies/harry-potter-dh2-detail.webp",
+      "videoPath": "/public/videos/filler-video.mp4"
     },
     {
       "name": "The Avengers: Age of Ultron",
@@ -205,9 +233,11 @@
       "earnings": 1405403694,
       "productionCompany": "Marvel Studios",
       "rating": 7.3,
+      "counter": 10,
       "bannerImage": "/public/images/movies/avengers-aou-banner.webp",
       "smallImage": "/public/images/movies/avengers-aou-small.webp",
-      "detailImage": "/public/images/movies/avengers-aou-detail.webp"
+      "detailImage": "/public/images/movies/avengers-aou-detail.webp",
+      "videoPath": "/public/videos/filler-video.mp4"
     },
     {
       "name": "The Incredibles 2",
@@ -219,9 +249,11 @@
       "earnings": 1242805359,
       "productionCompany": "Pixar Animation Studios",
       "rating": 7.6,
+      "counter": 160,
       "bannerImage": "/public/images/movies/incredibles-2-banner.webp",
       "smallImage": "/public/images/movies/incredibles-2-small.webp",
-      "detailImage": "/public/images/movies/incredibles-2-detail.webp"
+      "detailImage": "/public/images/movies/incredibles-2-detail.webp",
+      "videoPath": "/public/videos/filler-video.mp4"
     },
     {
       "name": "Beauty and the Beast",
@@ -233,9 +265,11 @@
       "earnings": 1263521126,
       "productionCompany": "Walt Disney Pictures",
       "rating": 7.1,
+      "counter": 9,
       "bannerImage": "/public/images/movies/Beauty-And-The-Beast-banner.webp",
       "smallImage": "/public/images/movies/Beauty-And-The-Beast-small.webp",
-      "detailImage": "/public/images/movies/Beauty-And-The-Beast-detail.webp"
+      "detailImage": "/public/images/movies/Beauty-And-The-Beast-detail.webp",
+      "videoPath": "/public/videos/filler-video.mp4"
     },
     {
       "name": "Frozen II",
@@ -247,9 +281,11 @@
       "earnings": 1450026933,
       "productionCompany": "Walt Disney Pictures",
       "rating": 6.9,
+      "counter": 10,
       "bannerImage": "/public/images/movies/frozen-2-banner.webp",
       "smallImage": "/public/images/movies/frozen-2-small.webp",
-      "detailImage": "/public/images/movies/frozen-2-detail.webp"
+      "detailImage": "/public/images/movies/frozen-2-detail.webp",
+      "videoPath": "/public/videos/filler-video.mp4"
     },
     {
       "name": "Spider-Man: Far From Home",
@@ -261,8 +297,10 @@
       "earnings": 1131927996,
       "productionCompany": "Marvel Studios",
       "rating": 7.4,
+      "counter": 100,
       "bannerImage": "/public/images/movies/spider-man-ffh-banner.webp",
       "smallImage": "/public/images/movies/spider-man-ffh-small.webp",
-      "detailImage": "/public/images/movies/spider-man-ffh-detail.webp"
+      "detailImage": "/public/images/movies/spider-man-ffh-detail.webp",
+      "videoPath": "/public/videos/filler-video.mp4"
     }
   ]

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Template for Netflix Knockoff</title>
+    <link rel="stylesheet" href="/styles/base.css">
+    <link rel="stylesheet" href="/styles/larger.css">
+    <link rel="icon" href="data:,">
+    <script src="/scripts/moviesDirectory.js" type="module"></script>
+</head>
+<body >
+    <main id="main-movies-directory">
+    <div id="featured-movie"></div>
+    <header id="main-header"></header>
+    <section id="popular-section">
+        <h2>Popular on Netflix</h2>
+        <div class="slideshow-container">
+            <div class="movie-slides">
+                <a class="prev" directory="Popular">&#10094;</a>
+                <div class="directory" id="popular"></div>
+                <a class="next" directory="Popular">&#10095;</a>
+            </div>
+        </div>
+    </section>
+    <section>
+        <h2>Continue Watching</h2>
+        <div class="slideshow-container">
+            <div class="movie-slides">
+                <a class="prev" directory="Continue">&#10094;</a>
+                <div class="directory" id="continue-watching"></div>
+                <a class="next" directory="Continue">&#10095;</a>
+            </div>
+        </div>
+    </section>
+    </main>
+    <footer id="main-footer"></footer>
+</body>
+</html>
