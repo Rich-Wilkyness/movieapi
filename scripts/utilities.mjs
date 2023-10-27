@@ -20,13 +20,13 @@ export async function loadTemplate(path) {
   return template;
 }
 export async function loadFooter() {
-  const footerTemplate = await loadTemplate("/public/partials/footer.html");
+  const footerTemplate = await loadTemplate("/movieapi/public/partials/footer.html");
   const footerElement = document.getElementById("main-footer");
 
   renderWithTemplate(footerTemplate, footerElement);
 }
 export async function loadHeader() {
-  const headerTemplate = await loadTemplate("/public/partials/header.html");
+  const headerTemplate = await loadTemplate("/movieapi/public/partials/header.html");
   const headerElement = document.getElementById("main-header");
 
   renderWithTemplate(headerTemplate, headerElement);
