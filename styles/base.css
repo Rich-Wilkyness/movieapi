@@ -3,19 +3,12 @@
 :root {
     --font-color-ondark: #ffffff;
     --font-color-onlight: #020202;
-<<<<<<< HEAD
     --primary-color: rgb(2, 2, 2) ;
     --secondary-color: #141414 ;
     --accent1-color: #2A2A2A;
     --accent2-color: #414141;
     --accent3-color: #adadad;
 
-=======
-    --primary-color: #020202 ;
-    --secondary-color: #141414 ;
-    --accent1-color: #2A2A2A;
-    --accent2-color: #414141;
->>>>>>> 7de7ebf3141da3f52ff3ce8d77c658e33c801903
     --button-color: #E50914;
     --button-transition: #ac0710;
 
@@ -48,7 +41,6 @@ p, li {
 body {
   background-color: var(--primary-color);
 }
-<<<<<<< HEAD
 /* Footer */
 #main-footer {
   padding-top: 3rem;
@@ -124,8 +116,6 @@ body {
 
 /* Welcome Page */
 
-=======
->>>>>>> 7de7ebf3141da3f52ff3ce8d77c658e33c801903
 #home-banner {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -313,7 +303,6 @@ body {
 .faq-answer {
   display: none;
   margin-bottom: 1rem;
-<<<<<<< HEAD
 }
 
 
@@ -357,6 +346,4 @@ body {
   transform-origin: center;
   position: relative;
   z-index: 1;
-=======
->>>>>>> 7de7ebf3141da3f52ff3ce8d77c658e33c801903
 }

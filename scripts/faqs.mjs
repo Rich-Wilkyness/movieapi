@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 import { renderListWithTemplate } from "./utilities.mjs";
-=======
-import { renderListWithTemplate } from "./utilities.js";
->>>>>>> 7de7ebf3141da3f52ff3ce8d77c658e33c801903
 
 export function faqTemplate(faq) {
     return `<div class="faq-question">
