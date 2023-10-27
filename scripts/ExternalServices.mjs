@@ -7,7 +7,7 @@ export default class ExternalServices {
   }
   async getData(jsonFile) {
     try {
-        const response = await fetch(`${baseURL} + /data/${jsonFile}.json`);
+        const response = await fetch(`/movieapi/data/${jsonFile}.json`);
         if (response.ok) {
             const data = await response.json();
             return data;
