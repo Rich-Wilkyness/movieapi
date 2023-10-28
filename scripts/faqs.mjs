@@ -3,7 +3,7 @@ import { renderListWithTemplate } from "./utilities.mjs";
 export function faqTemplate(faq) {
     return `<div class="faq-question">
             <h3>${faq.question}</h3>
-            <img src="/public/images/icons/icons8-plus-50.png" alt="plus icon">
+            <img src="/movieapi/public/images/icons/icons8-plus-50.png" alt="plus icon">
             </div>
             <div class="faq-answer">
                 <p>${faq.answer}</p>
